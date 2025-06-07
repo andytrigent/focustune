@@ -20,9 +20,9 @@ This app allows users to toggle individual instruments, adjust their volume, app
 
 | Layer      | Tools / Frameworks                             |
 |------------|------------------------------------------------|
-| Frontend   | React.js or Flutter (TBD)                      |
+| Frontend   | React                    |
 | Audio      | WebAudio API / Tone.js / AudioKit / Oboe SDK   |
-| Cross-Platform | React Native (or Flutter for native audio support) |
+| Cross-Platform | PWA Application |
 | Backend (Optional) | Firebase / Supabase (for user presets and metadata) |
 
 ---
